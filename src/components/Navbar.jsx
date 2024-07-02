@@ -23,7 +23,7 @@ const Navbar = () => {
           <input
             type='text'
             placeholder='Search Music,Album'
-            className=' p-2 w-[80%] outline-none rounded-1xl outline-cyan-100 '
+            className=' p-2 w-[80%] outline-none rounded-2xl outline-cyan-100 '
           />
           <FaSearch className=' text-2xl text-cyan-500' />
         </div>
